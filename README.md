@@ -15,13 +15,13 @@
 
 ---
 
-`$ whoami`
+$ whoami\
 CS undergraduate @ IEM Kolkata
 
-> interested in      backend · cybersecurity · software engineering
-> building            practical projects from scratch
-> learning            Java · DSA · backend systems · security · AI
-> mindset             learn → build → improve
+> interested in      backend · cybersecurity · software engineering\
+> building           practical projects from scratch\
+> learning           Java · DSA · backend systems · security · AI\
+> mindset            learn → build → improve
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&pause=1500&color=97A4E2&center=true&vCenter=true&width=650&height=140&lines=Status%3A+Building+%26+Learning;Interests%3A+Backend%2C+Cybersecurity%2C+RBAC%2C+AI%2FML;Downtime%3A+Competitive+Programming%2C+Reading%2C+F1" alt="Bio Typing SVG" />
 </p>
