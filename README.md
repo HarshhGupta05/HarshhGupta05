@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/download.jpg" width="100%" alt="banner" />
+  <img src="./assets/yes.png" width="100%" alt="banner" />
 </p>
 
 <h1 align="center">Hi, I'm Harshh.</h1>
