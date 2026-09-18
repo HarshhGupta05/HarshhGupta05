@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Harshh.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=19&pause=1200&color=6FCF97&center=true&vCenter=true&width=560&lines=CS+Undergrad+%40+IEM+Kolkata%2C+2027;Shipping+PulseWatch+%26+CVEQuery;Chasing+Systems+Design+%2B+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=19&pause=1200&color=6FCF97&center=true&vCenter=true&width=560&lines=CS+Undergrad+%40+IEM+Kolkata%2C+2027;Turning+Ideas+Into+Working+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ I'm a Computer Science undergraduate who builds backend systems and full-stack a
 」
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&pause=1500&color=97A4E2&center=true&vCenter=true&width=650&height=140&lines=Status%3A+Building+PulseWatch+%26+CVEQuery;Interests%3A+Backend%2C+Cybersecurity%2C+RBAC%2C+AI%2FML;Focus%3A+DSA%2C+Backend+Systems%2C+Security;Downtime%3A+Competitive+Programming%2C+Reading" alt="Bio Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&pause=1500&color=97A4E2&center=true&vCenter=true&width=650&height=140&lines=Status%3A+Interests%3A+Backend%2C+Cybersecurity%2C+RBAC%2C+AI%2FML;Downtime%3A+Competitive+Programming%2C+Reading+F1" alt="Bio Typing SVG" />
 </p>
 
 ---
