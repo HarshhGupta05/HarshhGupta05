@@ -22,7 +22,7 @@ I'm a Computer Science undergraduate who builds backend systems and full-stack a
 」
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&pause=1500&color=97A4E2&center=true&vCenter=true&width=650&height=140&lines=Status%3A+Interests%3A+Backend%2C+Cybersecurity%2C+RBAC%2C+AI%2FML;Downtime%3A+Competitive+Programming%2C+Reading+F1" alt="Bio Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&pause=1500&color=97A4E2&center=true&vCenter=true&width=650&height=140&lines=Status%3A+Building+%26+Learning;Interests%3A+Backend%2C+Cybersecurity%2C+RBAC%2C+AI%2FML;Downtime%3A+Competitive+Programming%2C+Reading%2C+F1" alt="Bio Typing SVG" />
 </p>
 
 ---
