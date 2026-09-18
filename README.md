@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="banner" />
+  <img src="./assets/download.jpg" width="100%" alt="banner" />
 </p>
 
 <h1 align="center">Hi, I'm Harshh.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=97A4E2&center=true&vCenter=true&width=500&lines=Backend+%26+Full-Stack+Developer;Exploring+Cybersecurity+%26+AI%2FML;Building+with+Node.js%2C+FastAPI%2C+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=19&pause=1200&color=6FCF97&center=true&vCenter=true&width=560&lines=CS+Undergrad+%40+IEM+Kolkata%2C+2027;Shipping+PulseWatch+%26+CVEQuery;Chasing+Systems+Design+%2B+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
